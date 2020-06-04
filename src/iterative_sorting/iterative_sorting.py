@@ -24,7 +24,7 @@ def bubble_sort(arr):
 
 '''
 STRETCH: implement the Count Sort function below
-
+ today i did nonthing
 Counting sort is a sorting algorithm that works on a set of data where
 we specifically know the maximum value that can exist in that set of
 data. The idea behind this algorithm then is that we can create "buckets"
